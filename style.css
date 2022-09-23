@@ -1,0 +1,23 @@
+.jumbotron {
+    /* #af9adb, #6a5e83 */
+    padding-top: 10rem;
+    background-color: #e2deeb; 
+}
+
+.img-thumbnail{
+    background: #997fd3;
+}
+
+#project{
+    background-color: #e2deeb  
+}
+
+footer{
+    background-color: #997fd3;
+    padding:0.5rem 0.5rem;
+    text-align: center;
+}
+
+section{
+    padding-top: 5rem;
+}
